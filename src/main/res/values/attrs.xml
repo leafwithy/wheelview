@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WheelView">
+        <attr name="select_color" format="color"/>
+        <attr name="select_size" format="dimension" />
+        <attr name="unselect_color" format="color"/>
+        <attr name="unselect_size" format="dimension"/>
+        <attr name="itemview_size" format="dimension"/>
+        <attr name="itemview_padding" format="dimension"/>
+    </declare-styleable>
+</resources>
